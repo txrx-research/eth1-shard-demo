@@ -5,7 +5,7 @@ services:
     depends_on: 
       - eth1-producer
       - eth1-gateway
-    command: --registry-size 4096 --active-shards 4 --eth1-engine http://eth1-producer:8545 --processor-eth1-engine http://eth1-gateway:8545
+    command: --registry-size 4096 --active-shards 4 --eth1-engine http://eth1-producer:8545 --processor-eth1-engine http://eth1-gateway:8545 --epochs-to-run 1000000000
     container_name: eth2-client
   eth1-producer-init:
     image: mkalinin/catalyst:latest
