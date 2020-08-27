@@ -53,5 +53,9 @@ Here is the full genesis.json file used to bootstrap Eth1 nodes:
 ```
 
 ### References
-This setup is based on the Eth1 Shard Simulation:
-- https://github.com/txrx-research/teku/tree/phase1/phase1/src/main/kotlin/tech/pegasys/teku/phase1#eth1-shard-simulation
+- This setup is based on the Eth1 Shard Simulation:
+  - https://github.com/txrx-research/teku/tree/phase1/phase1/src/main/kotlin/tech/pegasys/teku/phase1#eth1-shard-simulation
+- Catalyst (eth1-engine):
+  - https://github.com/gballet/go-ethereum/tree/eth1-eth2-proto1
+- Eth2-client:
+  - https://github.com/txrx-research/teku/tree/phase1/phase1/src/main/kotlin/tech/pegasys/teku/phase1
