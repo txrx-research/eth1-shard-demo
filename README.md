@@ -52,7 +52,7 @@ Here is the full genesis.json file used to bootstrap Eth1 nodes:
 }
 ```
 
-### Demonstration
+### Demonstration of value transfer
 
 [![Demo](https://img.youtube.com/vi/ghIehI02QJ8/0.jpg)](https://www.youtube.com/watch?v=ghIehI02QJ8)
 
